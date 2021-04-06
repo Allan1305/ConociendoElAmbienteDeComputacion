@@ -1,0 +1,12 @@
+Niveles y Permisos de Archivos
+
+Niveles
+Propietario: Aquel que genera/crea un archivo/carpeta sobre el que tenga derechos 
+Grupo: Aquel formado por varios usuarios 
+Otros: Aquel que no es propietario y no pertenece a un grupo 
+
+Permisos
+
+Lectura: Permite visualizar el contenido 
+Escritura: Permite crear/ eliminar el contenido. También se pueden modificar los permisos del archivo 
+Ejecución: Permite ejecutar el contenido del archivo 

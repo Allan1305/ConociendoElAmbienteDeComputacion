@@ -1,0 +1,5 @@
+Permisos para Carpetas
+
+Lectura: Permite visualizar el contenido 
+Escritura: Permite crear/ eliminar archivos y directorios dentro de este directorio 
+Ejecución: Permite entrar al directorio 
